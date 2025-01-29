@@ -74,7 +74,7 @@ backend/
 ```
 
 
-## 🗂️ Endpoints Principais
+## Endpoints Principais
 
 ### GET /games
 Retorna a lista de todos os jogos.
@@ -85,7 +85,7 @@ Retorna a lista de coleções.
 ### POST /lists/{listId}/replacement
 Permite reordenar jogos dentro de uma lista.
 
-## 🧑‍💻 Autor
+## Autor
 
 - **Antônio Carlos da Silva Júnior**  
   Webdesigner | Técnico em Desenvolvimento de Software | Graduando em Sistemas de Informação
@@ -94,6 +94,6 @@ Permite reordenar jogos dentro de uma lista.
 
 🌐 LinkedIn: [linkedin.com/in/antonio-carlosjr](https://linkedin.com/in/antonio-carlosjr)
 
-## 📜 Licença
+## Licença
 
 Este projeto é licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
